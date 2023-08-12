@@ -1,22 +1,32 @@
 
-trojan://telegram-id-privatevpns@34.244.185.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S801)
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.128.39:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 
-trojan://telegram-id-privatevpns@34.252.112.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S802)
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.171.164.59:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 
-trojan://telegram-id-privatevpns@16.171.63.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S803)
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.144.246:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 
-trojan://telegram-id-privatevpns@13.48.67.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S804)
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.81.209:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 
-trojan://telegram-id-privatevpns@18.156.71.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S805)
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.183.28:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 
-trojan://telegram-id-privatevpns@3.68.220.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S806)
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.113.56:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 
-trojan://telegram-id-privatevpns@13.38.70.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S807)
+trojan://telegram-id-privatevpns@13.39.203.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S848)
 
-trojan://telegram-id-privatevpns@15.237.179.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S808)
+trojan://telegram-id-privatevpns@18.132.81.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S849)
 
-trojan://telegram-id-privatevpns@52.56.109.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S809)
+trojan://telegram-id-privatevpns@13.40.234.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S850)
 
-trojan://telegram-id-privatevpns@35.178.64.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S810)
+trojan://telegram-id-privatevpns@52.50.74.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S851)
 
-trojan://telegram-id-privatevpns@54.155.41.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S811)
+trojan://telegram-id-privatevpns@3.251.28.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S852)
+
+trojan://telegram-id-privatevpns@16.16.93.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S853)
+
+trojan://telegram-id-privatevpns@16.171.183.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S854)
+
+trojan://telegram-id-privatevpns@3.77.223.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S855)
+
+trojan://telegram-id-privatevpns@3.76.57.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)
+
+trojan://telegram-id-privatevpns@13.39.208.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S857)
